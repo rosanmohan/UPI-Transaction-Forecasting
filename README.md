@@ -24,12 +24,17 @@ To install the required packages, run the following command:
 ## Data Collection
 
 The first step is to collect historical UPI transaction data from reliable sources. The data should include information such as the date of the transaction and the transaction amount in crores. In this data we found the all India transactions through UPI in a Perticular date.
+
+
 ## Data Cleaning
 
 The next step is to clean and preprocess the data to remove any missing or inconsistent values and ensure that it is ready for analysis. But in this case the data is quite simple, we don't have any missing or some other values to analyse. We have one date column and one values column.
 ## Data Analysis
 
 The third step is to analyze the data to understand the patterns and trends in UPI transactions. This will involve exploring the data, creating visualizations, and performing statistical tests to identify any correlations or relationships in the data.
+
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/93364800/218986050-3a9e37de-bf49-430b-b6f1-e66a719c33b7.png">
+
 ## Modeling
 
 The next step is to select an appropriate machine learning model to use for forecasting. This will involve considering the type of data, the forecasting horizon, and the accuracy required. Here we have tried multiple models to check which model is performing good. we have considered MAPE (mean absolute percentage error) as our error matix. 
