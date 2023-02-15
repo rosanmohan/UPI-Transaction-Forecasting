@@ -32,8 +32,9 @@ The next step is to clean and preprocess the data to remove any missing or incon
 The third step is to analyze the data to understand the patterns and trends in UPI transactions. This will involve exploring the data, creating visualizations, and performing statistical tests to identify any correlations or relationships in the data.
 ## Modeling
 
-The next step is to select an appropriate machine learning model to use for forecasting. This will involve considering the type of data, the forecasting horizon, and the accuracy required. Here we have tried multiple models to check which model is performing good. we have considered MAPE (mean absolute percentage error) as our error matix. Then we train the selected machine learning model on the historical UPI transaction data. This will involve selecting the appropriate parameters and hyperparameters and evaluating the model's performance.
- After that finally to evaluate the performance of the trained model on a test dataset and compare its performance to other models. The model will be evaluated based on metrics MAPE as mentioned above and for by visualizing the values.
+The next step is to select an appropriate machine learning model to use for forecasting. This will involve considering the type of data, the forecasting horizon, and the accuracy required. Here we have tried multiple models to check which model is performing good. we have considered MAPE (mean absolute percentage error) as our error matix. 
+    Then we train the selected machine learning model on the historical UPI transaction data. This will involve selecting the appropriate parameters and hyperparameters and evaluating the model's performance.
+    After that finally to evaluate the performance of the trained model on a test dataset and compare its performance to other models. The model will be evaluated based on metrics MAPE as mentioned above and for by visualizing the values.
 
 ## Contributing
 
