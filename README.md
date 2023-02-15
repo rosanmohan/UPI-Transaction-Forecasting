@@ -2,6 +2,10 @@
 # UPI Transaction Forecasting Project
 
 The UPI Transaction Forecasting project aims to predict the future patterns and trends in UPI transactions using historical transaction data and machine learning / deep learning techniques. The project will involve collecting, cleaning, analyzing, and transforming the data into a suitable format for machine learning. The selected machine learning model will then be trained on the data and used to make predictions about future UPI transactions. The results of this project will provide valuable insights into the future of UPI usage in India, which can be used by businesses, financial institutions, and government agencies to improve their services and offerings.
+
+
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/93364800/218988061-48ce267d-8d74-42d3-bfe0-bad467c74331.png">
+
 ## Prerequisites
 Before you get started, you will need to have the following installed:
 
@@ -33,7 +37,7 @@ The next step is to clean and preprocess the data to remove any missing or incon
 
 The third step is to analyze the data to understand the patterns and trends in UPI transactions. This will involve exploring the data, creating visualizations, and performing statistical tests to identify any correlations or relationships in the data.
 
-<img width="893" alt="image" src="https://user-images.githubusercontent.com/93364800/218986050-3a9e37de-bf49-430b-b6f1-e66a719c33b7.png">
+<img width="604" alt="image" src="https://user-images.githubusercontent.com/93364800/218988912-48628f25-214b-471a-885b-1de9ea13ba95.png">
 
 ## Modeling
 
